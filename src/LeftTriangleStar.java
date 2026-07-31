@@ -1,4 +1,4 @@
-public class RightTriangleStar {
+public class LeftTriangleStar {
     public static int NB_LINES = 5;
 
     public static void main(String[] args) {
