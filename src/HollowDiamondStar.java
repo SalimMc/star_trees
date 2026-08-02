@@ -5,7 +5,7 @@ public class HollowDiamondStar {
     public static void main(String[] args) {
         for (int i = 0; i < NB_LINES; i++) {
             for (int j = 0; j < NB_COLUMNS; j++) {
-                if(NB_COLUMNS/2 - i == j || j == NB_COLUMNS/2 +i){
+                if(NB_COLUMNS/2 - i == j || j == NB_COLUMNS/2 + i){
                     System.out.print("*");
                 } else{
                     System.out.print(" ");
