@@ -10,10 +10,8 @@ public class ReverseHollowPyramidStar {
                 } else{
                     System.out.print(" ");
                 }
-                if(j == NB_COLUMNS - 1){
-                    System.out.println();
-                }
             }
+            System.out.println();
         }
     }
 }

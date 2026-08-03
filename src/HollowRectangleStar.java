@@ -10,8 +10,8 @@ public class HollowRectangleStar {
                 } else{
                     System.out.print(" ");
                 }
-                if(j == LENGTH - 1) System.out.println();
             }
+            System.out.println();
         }
     }
 }

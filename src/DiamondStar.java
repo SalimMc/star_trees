@@ -10,10 +10,8 @@ public class DiamondStar {
                 } else{
                     System.out.print(" ");
                 }
-                if(j == NB_COLUMNS - 1){
-                    System.out.println();
-                }
             }
+            System.out.println();
         }
         for (int i = 1; i < NB_LINES; i++) {
             for (int j = 0; j < NB_COLUMNS; j++) {
@@ -22,10 +20,8 @@ public class DiamondStar {
                 } else{
                     System.out.print(" ");
                 }
-                if(j == NB_COLUMNS - 1){
-                    System.out.println();
-                }
             }
+            System.out.println();
         }
     }
 }

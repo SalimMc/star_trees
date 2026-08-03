@@ -9,8 +9,8 @@ public class HollowSquareStar {
                 } else{
                     System.out.print(" ");
                 }
-                if(j == SIDE_LENGTH - 1) System.out.println();
             }
+            System.out.println();
         }
     }
 }
