@@ -1,3 +1,13 @@
+/**
+ * <pre>
+ * ***********
+ *  *********
+ *   *******
+ *    *****
+ *     ***
+ *      *
+ * </pre>
+ */
 public class ReversePyramidStar {
     public static int NB_LINES = 6;
     public static int NB_COLUMNS = 11;
