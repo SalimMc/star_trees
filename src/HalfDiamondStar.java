@@ -1,3 +1,16 @@
+/**
+ * <pre>
+ * *
+ * **
+ * ***
+ * ****
+ * *****
+ * ****
+ * ***
+ * **
+ * *
+ * </pre>
+ */
 public class HalfDiamondStar {
     public static int NB_LINES = 5;
 
