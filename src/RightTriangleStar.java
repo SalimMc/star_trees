@@ -1,3 +1,12 @@
+/**
+ * <pre>
+ *     *
+ *    **
+ *   ***
+ *  ****
+ * *****
+ * </pre>
+ */
 public class RightTriangleStar {
     public static int NB_LINES = 5;
 
