@@ -314,7 +314,7 @@ star_trees
 │   └── PlusStar.java
 │
 ├── README.md
-├── LICENSE
+├── LICENSE.md
 └── .gitignore
 ```
 
