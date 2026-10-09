@@ -1,3 +1,12 @@
+/**
+ * <pre>
+ * *****
+ * *   *
+ * *   *
+ * *   *
+ * *****
+ * </pre>
+ */
 public class HollowSquareStar {
     public static int SIDE_LENGTH = 5;
 
