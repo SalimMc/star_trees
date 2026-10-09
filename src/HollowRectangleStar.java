@@ -1,3 +1,12 @@
+/**
+ * <pre>
+ * ********************
+ * *                  *
+ * *                  *
+ * *                  *
+ * ********************
+ * </pre>
+ */
 public class HollowRectangleStar {
     public static int WIDTH = 5;
     public static int LENGTH = 20;
