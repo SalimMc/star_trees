@@ -1,3 +1,16 @@
+/**
+ * <pre>
+ * *****
+ * ****
+ * ***
+ * **
+ * *
+ * **
+ * ***
+ * ****
+ * *****
+ * </pre>
+ */
 public class ReverseHalfDiamondStar {
     public static int NB_LINES = 5;
 
