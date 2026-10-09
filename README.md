@@ -333,7 +333,7 @@ star_trees
 
 ## 📄 License
 
-Licensed under MIT License. For further information, see the [LICENSE](LICENSE) file.
+Licensed under MIT License. For further information, see the [LICENSE](LICENSE.md) file.
 
 ---
 
