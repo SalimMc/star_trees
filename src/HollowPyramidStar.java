@@ -1,3 +1,12 @@
+/**
+ * <pre>
+ *     *
+ *    * *
+ *   *   *
+ *  *     *
+ * *********
+ * </pre>
+ */
 public class HollowPyramidStar {
     public static int NB_LINES = 5;
     public static int NB_COLUMNS = 9;
