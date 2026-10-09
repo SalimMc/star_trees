@@ -1,3 +1,12 @@
+/**
+ * <pre>
+ *      *
+ *     ***
+ *    *****
+ *   *******
+ *  *********
+ * </pre>
+ */
 public class PyramidStar {
     public static int NB_LINES = 5;
     public static int NB_COLUMNS = 11;
